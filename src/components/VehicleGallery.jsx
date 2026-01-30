@@ -41,6 +41,7 @@ const VehicleGallery = () => {
                                     src={v.image}
                                     alt={v.brand}
                                     className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700 opacity-80 group-hover:opacity-100"
+                                    loading="lazy"
                                 />
                             </div>
                             <div className="p-8 relative z-10 transition-all duration-300">

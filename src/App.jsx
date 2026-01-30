@@ -4,7 +4,6 @@ import Hero from './components/Hero';
 import Services from './components/Services';
 import TrustSignals from './components/TrustSignals';
 import VehicleGallery from './components/VehicleGallery';
-import ValueProposition from './components/ValueProposition';
 import Footer from './components/Footer';
 
 function App() {
@@ -16,7 +15,6 @@ function App() {
         <TrustSignals />
         <VehicleGallery />
         <Services />
-        <ValueProposition />
       </main>
       <Footer />
     </div>

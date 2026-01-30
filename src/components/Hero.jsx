@@ -11,6 +11,7 @@ const Hero = () => {
                     src={heroImage}
                     alt="German Auto Repair"
                     className="w-full h-full object-cover opacity-40"
+                    loading="lazy"
                 />
                 <div className="absolute inset-0 bg-gradient-to-r from-brand-black via-brand-black/90 to-transparent" />
                 <div className="absolute inset-0 bg-gradient-to-t from-brand-black to-transparent" />

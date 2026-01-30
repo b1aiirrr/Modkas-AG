@@ -15,7 +15,6 @@ const Navbar = () => {
                     </div>
                     <div className="hidden md:flex items-center gap-8">
                         <a href="#services" className="text-sm font-medium text-gray-400 hover:text-white transition-colors">Services</a>
-                        <a href="#about" className="text-sm font-medium text-gray-400 hover:text-white transition-colors">Why Us</a>
                         <a href="#location" className="text-sm font-medium text-gray-400 hover:text-white transition-colors">Location</a>
                         <a
                             href="https://wa.me/254722785494?text=Hello%20Modkas%20Auto%20Garage%2C%0A%0AI%20would%20like%20to%20book%20a%20computerized%20diagnostic%20service%20for%20my%20vehicle.%0A%0AVehicle%20Make%2FModel%3A%20%0AYear%3A%20%0ACurrent%20Issues%2FConcerns%3A%20%0A%0APlease%20let%20me%20know%20your%20availability.%20Thank%20you!"
