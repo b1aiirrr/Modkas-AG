@@ -2,8 +2,10 @@
 
 A modern, responsive landing page for **Modkas Auto Garage** - specialist auto repair services for German vehicles (VW, Audi, and Skoda).
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://modkas-garage.vercel.app)
-[![GitHub](https://img.shields.io/badge/repo-github-blue)](https://github.com/b1aiirrr/Modkas-AG)
+[![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge&logo=vercel)](https://modkas-garage.vercel.app)
+[![GitHub](https://img.shields.io/badge/repo-github-blue?style=for-the-badge&logo=github)](https://github.com/b1aiirrr/Modkas-AG)
+[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 
 ## 🌟 Features
 
@@ -180,7 +182,11 @@ After building (`npm run build`), deploy the `dist/` folder to any static hostin
 
 ## 📄 License
 
-This project is private and proprietary to Modkas Auto Garage.
+This project is private and proprietary to Modkas Auto Garage. All rights reserved.
+
+## 🤝 Contributing
+
+This is a private repository. For any inquiries regarding contributions or modifications, please contact the owner directly.
 
 ## 👤 Contact
 
